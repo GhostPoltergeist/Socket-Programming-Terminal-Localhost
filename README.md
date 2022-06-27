@@ -5,12 +5,8 @@ Either connection-oriented or connectionless can apply. Generally speaking, a so
 a client to a server.
 
 [Android Terminals] > [RUN TWO DIFFERENT MAIN TERMINALS]
->[Termux]
->[JuiceSSH]
->[Termius]
->[Terminal Emulator for Android]
->[Termux]
->[LADB]
+[Termux][JuiceSSH][Termius][Terminal Emulator for Android]
+[Termux][LADB]
 
 [CMD-PowerShell]
 [GitBash]
